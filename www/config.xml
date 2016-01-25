@@ -6,7 +6,7 @@
         id        = "com.phonegap.cravezone"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>CraveZone</name>
 
     <description>
     Welcome to Crave Zone!!!
